@@ -7,6 +7,6 @@
     "keywords": [],
     "category": "Utils",
     "dependencies": {
-        "coms.unity.render-pipelines.universal":"10.7.0"
+        "com.unity.render-pipelines.universal":"10.7.0"
     }
 }
