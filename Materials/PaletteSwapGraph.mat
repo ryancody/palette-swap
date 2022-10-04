@@ -2,14 +2,15 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PaletteSwapGraph
   m_Shader: {fileID: -6465566751694194690, guid: a9cc8a344194c7e48abd4da6b2988d17, type: 3}
-  m_ShaderKeywords: 
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -47,9 +48,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - _EnableExternalAlpha: 0
     m_Colors:
+    - Blue_0: {r: 0, g: 0, b: 0, a: 1}
+    - Blue_1: {r: 0.042070262, g: 0, b: 0.3962264, a: 1}
+    - Blue_2: {r: 0.043965846, g: 0.06786723, b: 0.7169812, a: 1}
+    - Blue_3: {r: 0.052918434, g: 0, b: 1, a: 1}
     - Color_186d7f0d0bff4912b32e15b0e948fdcb: {r: 0.20000002, g: 0.11764707, b: 0.20784315, a: 0}
     - Color_1e0d75c504874f8dafea450d8e958d17: {r: 0.6745098, g: 0.19607845, b: 0.19607845, a: 1}
     - Color_34eeefa425164118a686127adb1b5441: {r: 0.5764706, g: 0.1764706, b: 0.20392159, a: 1}
@@ -62,6 +68,14 @@ Material:
     - Color_e94147cd26374a6283ee02c301699875: {r: 0.43529415, g: 0.1764706, b: 0.25882354, a: 1}
     - Color_f3f01832c18445ccb9e168ccdddf53e1: {r: 0.36862746, g: 0.21568629, b: 0.31764707, a: 0}
     - Color_f8f2d482fb734c52bedc16a02d7d19c4: {r: 0.24313727, g: 0.12941177, b: 0.21960786, a: 0}
+    - Green_0: {r: 0.010991452, g: 0.122641504, b: 0.017055256, a: 1}
+    - Green_1: {r: 0.03435961, g: 0.254717, b: 0.0060074753, a: 1}
+    - Green_2: {r: 0.063412234, g: 0.5377358, b: 0.063422635, a: 1}
+    - Green_3: {r: 0.028630018, g: 1, b: 0, a: 1}
+    - Red_0: {r: 0.103773594, g: 0.06804024, b: 0.0960664, a: 1}
+    - Red_1: {r: 0.16981131, g: 0.10332858, b: 0.15547189, a: 1}
+    - Red_2: {r: 0.18867922, g: 0.111249544, b: 0.1719787, a: 1}
+    - Red_3: {r: 0.24528301, g: 0.11454253, b: 0.21708408, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
