@@ -1,7 +1,7 @@
 {
     "name": "com.moaihead.paletteswap",
     "displayName": "Palette Swap",
-    "version": "0.0.3",
+    "version": "1.0.0",
     "unity": "2020.3",
     "description": "Use shader graph to swap palette of a material",
     "keywords": [],
